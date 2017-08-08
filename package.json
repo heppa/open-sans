@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/stenin-nikita/open-sans"
+    "url": "git+https://github.com/stenin-nikita/open-sans.git"
   },
   "license": "MIT",
   "devDependencies": {
@@ -21,5 +21,11 @@
     "gulp-less": "^3.1.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/stenin-nikita/open-sans/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
