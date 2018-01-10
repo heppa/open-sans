@@ -4,11 +4,11 @@ Webfont kit for the awesome [Open Sans](http://www.google.com/fonts/specimen/Ope
 
 ## Install via [Bower](http://bower.io):
 
-    bower install open-sans-all
+    bower install git+https://git@github.com/heppa/open-sans.git
 
 ## Install via [NPM](https://www.npmjs.com/):
 
-    npm install open-sans-all
+    npm install git+https://git@github.com/heppa/open-sans.git
 
 ## Usage
 ### HTML:
